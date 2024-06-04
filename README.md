@@ -6,7 +6,7 @@
 
 <p align="justify">I have developed projects such as restaurant websites, enhancing my web development skills. Additionally, I applied machine learning techniques for stock price prediction and worked on forecasting stock prices using sentiment analysis, integrating natural language processing with predictive analytics to achieve accurate results.</p>
 
-<p align="justify">s a keen enthusiast in the computer science field, I am passionate about developing my skills further and pursuing a career in this dynamic and evolving industry, driven by innovation and continuous learning opportunities.
+<p align="justify"> Keen enthusiast in the computer science field, I am passionate about developing my skills further and pursuing a career in this dynamic and evolving industry, driven by innovation and continuous learning opportunities.
 </p>
 
 
