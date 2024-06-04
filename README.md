@@ -2,7 +2,7 @@
 
 <h2 align="left">🌟 About Me</h2>
 
-<p align="justify">I studied Python during my school years, laying a strong foundation in programming. Beginning my career at BML Munjal University, where my initial project focused on Gender, Age, and Emotion Detection from Voice, providing me with a solid grounding in machine learning and data analysis.t.</p>
+<p align="justify">I studied Python during my school years, laying a strong foundation in programming. Beginning my career at BML Munjal University, where my initial project focused on Gender, Age, and Emotion Detection from Voice, providing me with a solid grounding in machine learning and data analysis.</p>
 
 <p align="justify">I have developed projects such as restaurant websites, enhancing my web development skills. Additionally, I applied machine learning techniques for stock price prediction and worked on forecasting stock prices using sentiment analysis, integrating natural language processing with predictive analytics to achieve accurate results.</p>
 
