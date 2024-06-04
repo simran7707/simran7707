@@ -9,7 +9,7 @@
 <p align="justify">s a keen enthusiast in the computer science field, I am passionate about developing my skills further and pursuing a career in this dynamic and evolving industry, driven by innovation and continuous learning opportunities.
 </p>
 
-share hard-copies. Made using flutter, dart, MongoDB and Firebase.  It leverages Machine Learning (recommendersystem) Algorithms and Human Computer Interaction to deliver good user experience.</p>
+
   
 
 ## 👨🏻‍💻 My Programming Kit:
