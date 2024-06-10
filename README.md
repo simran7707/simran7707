@@ -1,3 +1,6 @@
+<img height="202.4" width="1012" alt="Github Streak" src="https://media-fastly.hackerearth.com/media/hackathon/sept-circuits-21/images/3a04cef80f-September-Circuits.gif" data-canonical-src=" " style="max-width:100%;">
+
+
 ## Step into Simran's GitHub Sanctuary!
 
 <h2 align="left">🌟 About Me</h2>
